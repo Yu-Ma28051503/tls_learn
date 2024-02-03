@@ -8,5 +8,19 @@ OpenSSLライブラリを使ってSSL/TLSを学習するリポジトリ.
 
 
 ## Quickstart
+Install OpenSSL library
+- windows
+
+知らない
+
+- mac
+```
+brew install openssl
+```
+
+- Linux
+```
+sudo apt install libssl-dev
+```
 
 
